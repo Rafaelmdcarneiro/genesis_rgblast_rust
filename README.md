@@ -29,18 +29,6 @@ Obviously you'll also need Rust installed (https://www.rust-lang.org/).
 
 On certain platforms you cannot have both the D2XX and VCP (Virtual Com Port) drivers installed. Try removing the VCP drivers if you have issues.
 
-## Authors
-
-Contributors names and contact info
-
-JP Stringham
-[@jotapeh](https://mastodon.gamedev.place/@jotapeh)
-
-## Version History
-
-* 0.1
-    * Initial Release
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
